@@ -111,10 +111,10 @@ Find something missing? Developers can also [`build their own`](https://github.c
 
 ## Get involved
 
-> 👉 Note: By interacting with this organization or community you agree to abide by our [code of conduct]().
+> 👉 Note: By interacting with this organization or community you agree to abide by our [code of conduct](https://github.com/burrata-labs/.github/blob/main/code-of-conduct.md).
 
-* for questions, see [support]()
-* to help, see [contribute]()
+* for questions, see [support](https://github.com/burrata-labs/.github/blob/main/support.md)
+* to help, see [contribute](https://github.com/burrata-labs/.github/blob/main/contributing.md)
 * to report bugs and feature reports, [open an issue]()
 * for urgent issues, reach out through [developer community](https://t.me/+vvN1naUaBbZlMDgx)
 
