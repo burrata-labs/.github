@@ -12,7 +12,7 @@
 
 Developer-first tooling makes creating and verifying on-chain credentials a breeze.
 
-1. [Get](https://www.burrata.xyz) early access
+1. Sign up for [early access](https://www.burrata.xyz)
 
 2. Install NPM packages
 
@@ -79,15 +79,14 @@ export const useBurrata = () => {
 </details>
 
 <br/>
+
+> Read [documentation](https://docs.burrata.xyz) to learn more.
+
 <br/>
 
-> Learn more under [developer documentation](https://docs.burrata.xyz).
+## Integrations and use cases
 
-<br/>
-
-## Integrations and usecases
-
-burrata supports various usecases through an integrations model. The following integrations are provided out of box:
+burrata supports various use cases through an integrations model. The following integrations are provided out of box:
 
 1. Identity Verification:
     - [Stripe Identity](https://docs.burrata.xyz)
@@ -108,3 +107,12 @@ burrata supports various usecases through an integrations model. The following i
 
 Find something missing? Developers can also [`build their own`](https://docs.burrata.xyz) integrations.
 
+
+## Get involved
+
+> 👉 Note: By interacting with this organization or community you agree to abide by our [code of conduct]().
+
+* for questions, see [support]()
+* to help, see [contribute]()
+* to report bugs and feature reports, [open an issue]()
+* for urgent issues, reach out through [developer community](https://t.me/+vvN1naUaBbZlMDgx)
