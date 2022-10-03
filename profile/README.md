@@ -106,7 +106,7 @@ burrata supports various use cases through an integrations model. The following 
 7. Employment History:
     - [Truework](https://github.com/orgs/burrata-labs/projects/3/views/1)
 
-Find something missing? Developers can also [`build their own`](https://docs.burrata.xyz) integrations.
+Find something missing? Developers can also [`build their own`](https://github.com/orgs/burrata-labs/projects/3/views/1) integrations.
 
 
 ## Get involved
