@@ -1,6 +1,9 @@
 # bridging web2 to web3 🧀
-🌐 [Website](https://www.burrata.xyz) 📚 [Documentation](https://docs.burrata.xyz)  🛣 [Roadmap](https://github.com/orgs/burrata-labs/projects/3)  📝 [Changelog](https://docs.burrata.xyz/changelog) 💬 [Community](https://t.me/+vvN1naUaBbZlMDgx)
+
+#### 🌐 [Website](https://www.burrata.xyz)    📚 [Documentation](https://docs.burrata.xyz)    🛣 [Roadmap](https://github.com/orgs/burrata-labs/projects/3)    📝 [Changelog](https://docs.burrata.xyz/changelog)   💬 [Community](https://t.me/+vvN1naUaBbZlMDgx)
+
 ![](https://raw.githubusercontent.com/burrata-labs/.github/main/assets/gh-banner.png)
+
 ---
 [burrata’s](https://www.burrata.xyz) integration layers helps web3 developers consume private data from web2 systems while maintaining user privacy and control.
 
@@ -21,7 +24,7 @@ npm i --save @burrata/contracts
 3. Setup contracts and dApp
 
 <details>
-<summary>`Solidity`</summary>
+<summary><code>Solidity</code></summary>
 
 ```solidity
 import "@burrata/contracts/deployment/testnet.sol";
@@ -36,7 +39,7 @@ function your_function(bytes calldata burrataData) {
 </details>
 
 <details>
-<summary>`Javascript`</summary>
+<summary><code>Javascript</code></summary>
 
 ```js
 import { initialize as burrataInit } from '@burrata/sdk.ethers';
@@ -75,7 +78,12 @@ export const useBurrata = () => {
 
 </details>
 
+<br/>
+<br/>
+
 > Learn more under [developer documentation](https://docs.burrata.xyz).
+
+<br/>
 
 ## Integrations and usecases
 
