@@ -1,6 +1,7 @@
 # bridging web2 to web3 🧀
 
-#### 🌐 [Website](https://www.burrata.xyz)    📚 [Documentation](https://docs.burrata.xyz)    🛣 [Roadmap](https://github.com/orgs/burrata-labs/projects/3)    📝 [Changelog](https://docs.burrata.xyz/changelog)   💬 [Community](https://t.me/+vvN1naUaBbZlMDgx)
+#### 🌐 [Website](https://www.burrata.xyz)    📚 [Documentation](https://docs.burrata.xyz)    💬 [Community](https://t.me/+vvN1naUaBbZlMDgx)
+#### 📝 [Changelog](https://docs.burrata.xyz/changelog)    🛣 [Roadmap](https://github.com/orgs/burrata-labs/projects/3)
 
 ![](https://raw.githubusercontent.com/burrata-labs/.github/main/assets/gh-banner.png)
 
@@ -116,3 +117,8 @@ Find something missing? Developers can also [`build their own`](https://docs.bur
 * to help, see [contribute]()
 * to report bugs and feature reports, [open an issue]()
 * for urgent issues, reach out through [developer community](https://t.me/+vvN1naUaBbZlMDgx)
+
+<br/>
+
+##### 🌐 [Website](https://www.burrata.xyz)    📚 [Documentation](https://docs.burrata.xyz)    💬 [Community](https://t.me/+vvN1naUaBbZlMDgx)
+##### 📝 [Changelog](https://docs.burrata.xyz/changelog)    🛣 [Roadmap](https://github.com/orgs/burrata-labs/projects/3)
