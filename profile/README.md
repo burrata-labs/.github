@@ -3,7 +3,7 @@
 #### 🌐 [Website](https://www.burrata.xyz)    📚 [Documentation](https://docs.burrata.xyz)    💬 [Community](https://t.me/+vvN1naUaBbZlMDgx)
 #### 📝 [Changelog](https://docs.burrata.xyz/changelog)    🛣 [Roadmap](https://github.com/orgs/burrata-labs/projects/3)
 
-![](https://raw.githubusercontent.com/burrata-labs/.github/main/assets/gh-banner.png)
+![[](https://raw.githubusercontent.com/burrata-labs/.github/main/assets/gh-banner.png)](https://github.com/orgs/burrata-labs/)
 
 ---
 [burrata’s](https://www.burrata.xyz) integration layers helps web3 developers consume private data from web2 systems while maintaining user privacy and control.
