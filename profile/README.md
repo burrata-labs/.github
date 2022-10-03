@@ -94,17 +94,17 @@ burrata supports various use cases through an integrations model. The following 
 2. eSignature:
     - [PandaDoc](https://docs.burrata.xyz)
 3.  Financial History:
-    - [Stripe Financial Connections](https://docs.burrata.xyz)
-    - [Plaid](https://docs.burrata.xyz)
+    - [Stripe Financial Connections](https://github.com/orgs/burrata-labs/projects/3/views/1)
+    - [Plaid](https://github.com/orgs/burrata-labs/projects/3/views/1)
 4. Know Your Customer (KYC):
     - [Persona](https://docs.burrata.xyz)
 5. Accredited Investor:
     - [Verify Investor](https://docs.burrata.xyz)
 6. Know Your Business (KYB):
-    - [Middesk](https://docs.burrata.xyz)
-    - [Persona](https://docs.burrata.xyz)
+    - [Middesk](https://github.com/orgs/burrata-labs/projects/3/views/1)
+    - [Persona](https://github.com/orgs/burrata-labs/projects/3/views/1)
 7. Employment History:
-    - [Truework](https://docs.burrata.xyz)
+    - [Truework](https://github.com/orgs/burrata-labs/projects/3/views/1)
 
 Find something missing? Developers can also [`build their own`](https://docs.burrata.xyz) integrations.
 
@@ -120,5 +120,4 @@ Find something missing? Developers can also [`build their own`](https://docs.bur
 
 <br/>
 
-##### 🌐 [Website](https://www.burrata.xyz)    📚 [Documentation](https://docs.burrata.xyz)    💬 [Community](https://t.me/+vvN1naUaBbZlMDgx)
-##### 📝 [Changelog](https://docs.burrata.xyz/changelog)    🛣 [Roadmap](https://github.com/orgs/burrata-labs/projects/3)
+ 🌐 [Website](https://www.burrata.xyz)    📚 [Documentation](https://docs.burrata.xyz)    💬 [Community](https://t.me/+vvN1naUaBbZlMDgx)    📝 [Changelog](https://docs.burrata.xyz/changelog)    🛣 [Roadmap](https://github.com/orgs/burrata-labs/projects/3)
